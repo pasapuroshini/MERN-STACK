@@ -25,7 +25,7 @@ Commit History in Git refers to the record of all commits made to a repository, 
 *   To reinitialize a repository with a different branch name, remove the .git directory.
     
 *  ```
-    -rf .git_
+   rm -rf .git_
      ```
    (Ensure you have appropriate permissions.)_
     
