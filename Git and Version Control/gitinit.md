@@ -24,15 +24,21 @@ Commit History in Git refers to the record of all commits made to a repository, 
 
 *   To reinitialize a repository with a different branch name, remove the .git directory.
     
-*   bashCopyEditrm -rf .git_(Ensure you have appropriate permissions.)_
+*  ```
+    -rf .git_
+     ```
+   (Ensure you have appropriate permissions.)_
     
-*   Alternatively, delete .git manually if hidden folders are visible.
+*   Alternatively, delete `.git `manually if hidden folders are visible.
     
 
 **Checking Repository Status**
 ------------------------------
 
-*   bashCopyEditgit statusShows:
+* ```
+  git status
+  ```
+  Shows:
     
     *   The current branch name.
         
@@ -62,11 +68,11 @@ Commit History in Git refers to the record of all commits made to a repository, 
 
 1.  **Initialize a Git Repository**:
     
-    *   Use git init or git init -b to create a repository.
+    *   Use `git init` or `git init -b` to create a repository.
         
 2.  **Verify Initialization**:
     
-    *   Run git status to check the repository's current state.
+    *   Run `git status` to check the repository's current state.
         
 3.  **Prepare for Future Commits**:
     
