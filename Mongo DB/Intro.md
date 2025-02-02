@@ -1,7 +1,18 @@
-<img width="942" alt="Screenshot 2025-01-30 at 9 15 29 PM" src="https://github.com/user-attachments/assets/a4a5e1d0-1f1c-4456-8aa0-b69c6cc51986" />
+<img width="509" alt="Screenshot 2025-02-02 at 12 47 53 PM" src="https://github.com/user-attachments/assets/8ba5c73e-c7a8-4095-9c9e-2cdcad035c07" />
 
-<img width="964" alt="Screenshot 2025-01-30 at 9 23 27 PM" src="https://github.com/user-attachments/assets/2e2ff13f-6a89-4ecb-a96d-aee1e4f79b6b" />
 
-# Getting started with Mongo DB Atlas:
+<img width="476" alt="Screenshot 2025-02-02 at 12 48 08 PM" src="https://github.com/user-attachments/assets/ab58c152-e5f3-4f36-9f38-25a177a717ec" />
 
-<img width="935" alt="Screenshot 2025-01-30 at 9 40 20 PM" src="https://github.com/user-attachments/assets/619a49ca-1b3f-4446-8ada-dd44c13a6169" />
+
+<img width="540" alt="Screenshot 2025-02-02 at 12 48 23 PM" src="https://github.com/user-attachments/assets/3ff1eb6f-acd5-4bbb-bc4b-0a22377182b6" />
+
+
+<img width="515" alt="Screenshot 2025-02-02 at 12 48 39 PM" src="https://github.com/user-attachments/assets/f5cfa6b8-2a76-4f37-8afd-789b0ac7d6bb" />
+
+
+<img width="500" alt="Screenshot 2025-02-02 at 12 48 55 PM" src="https://github.com/user-attachments/assets/376e0257-1dc0-4281-9eb5-af362e56d2ed" />
+
+
+<img width="609" alt="Screenshot 2025-02-02 at 12 49 10 PM" src="https://github.com/user-attachments/assets/b2b68a87-9c8a-44f6-8c9e-83f3e21d318b" />
+
+<img width="529" alt="Screenshot 2025-02-02 at 12 49 26 PM" src="https://github.com/user-attachments/assets/8aff6b12-05b5-43cc-8a97-da931387d057" />
